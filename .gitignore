@@ -1,0 +1,30 @@
+# ===== RAW & PROCESSED IMAGES =====
+raw_images/
+raw_images.zip
+*.zip
+
+# ===== MODEL WEIGHTS =====
+*.keras
+*.h5
+*.pt
+*.pth
+
+# ===== RESULT PLOTS =====
+results.png
+
+# ===== PYTHON CACHE =====
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# ===== JUPYTER =====
+.ipynb_checkpoints/
+*.ipynb
+
+# ===== OS FILES =====
+.DS_Store
+Thumbs.db
+desktop.ini
